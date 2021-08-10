@@ -1,0 +1,13 @@
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: black;
+    color: white;
+}
+h1{
+    background-image: url(../img/cta.png);
+}
